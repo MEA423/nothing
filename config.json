@@ -1,0 +1,5 @@
+{
+    "prefix": "/get/",
+    "ssl": false,
+    "port": "8080"
+}
